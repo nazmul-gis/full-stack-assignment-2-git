@@ -4,3 +4,5 @@
 3. Commit and uncommit 
 4. Connect to remote repository 
 5. Push to remote repository 
+6. Create branch and switch to it 
+7. Merge the file to main branch 
